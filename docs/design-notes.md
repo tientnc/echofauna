@@ -2,9 +2,9 @@
 
 ## Product hook
 
-**Shape a song by shaping life.** EchoFauna opens on four moving creatures. Their crossings and alignment are both visible actions and scheduled musical events. The shortest convincing demo is: start, hear/see a loop, keep one creature, freeze another, evolve, and immediately hear and see the new generation.
+**Shape a song by shaping life.** Parts2Melody opens on four moving creatures. Their crossings and alignment are both visible actions and scheduled musical events. The shortest convincing demo is: start, hear/see a loop, keep one creature, freeze another, evolve, and immediately hear and see the new generation.
 
-The working name is **EchoFauna** (echo + living creatures). It had one unrelated GitHub repository-name match when checked on 12 August 2026; web search found no established software product dominating the name. Naming remains reversible, and this is not trademark clearance.
+The working name is **Parts2Melody**: visible moving parts combine into music, and the listener shapes how those parts evolve. Exact-name web and GitHub searches on 12 August 2026 found no existing product, artist, repository, or code match. This is a collision check, not trademark clearance.
 
 ## Related projects
 
@@ -55,7 +55,7 @@ Intrinsic structure comes from orbital motion, periodic crossings, agent role co
 
 ## Name candidates
 
-GitHub name search counts (12 August 2026) suggested the least dominated options were EchoFauna (0), Motoflora (0), Cadence Colony (0), Swarmuse (1), Echofauna (1), Loopkin (2), Bloombeat (2), Pulsekin (3), Sonalife (4), and Orbitone (31). **EchoFauna** is the working name because it is compact, searchable, and directly evokes a living sound ecosystem without sounding like generic AI software. This is not a trademark clearance.
+Earlier candidates included Motelyra, EchoFauna, Grow a Song, Song Creatures, and Shape a Song. **Parts2Melody** became the working name because it uses familiar words, is easy to search, and describes independent agents becoming one musical result. This is not trademark clearance.
 
 ## Unresolved questions
 

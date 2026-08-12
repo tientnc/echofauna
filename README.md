@@ -1,4 +1,4 @@
-# EchoFauna
+# Parts2Melody
 
 **Shape a song by shaping life.** Four visible creatures turn movement into a coherent generative loop. Keep what you like, freeze a favorite behavior, and evolve the rest—in one browser, with no backend or copyrighted samples.
 
