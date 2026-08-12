@@ -1,6 +1,6 @@
 # Contributing
 
-Thanks for helping Motelyra grow. Keep pull requests focused and keep `main` deployable.
+Thanks for helping EchoFauna grow. Keep pull requests focused and keep `main` deployable.
 
 ## Local workflow
 

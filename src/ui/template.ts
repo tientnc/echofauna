@@ -1,9 +1,9 @@
 export const template = `
   <main class="shell">
     <header class="topbar">
-      <a class="brand" href="#" aria-label="Motelyra home">
+      <a class="brand" href="#" aria-label="EchoFauna home">
         <span class="brand-mark" aria-hidden="true"></span>
-        <span>Motelyra <em>LAB 01</em></span>
+        <span>EchoFauna <em>LAB 01</em></span>
       </a>
       <div class="header-actions">
         <span class="status"><i></i> evolving locally</span>
