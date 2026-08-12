@@ -1,0 +1,18 @@
+name: Feature idea
+description: Suggest a musical behavior or interaction
+title: "Idea: "
+labels: [enhancement]
+body:
+  - type: textarea
+    id: hook
+    attributes:
+      label: What should a listener see, hear, or do?
+      description: Describe the ten-second demo moment first.
+    validations:
+      required: true
+  - type: textarea
+    id: connection
+    attributes:
+      label: How are behavior and sound connected?
+    validations:
+      required: true
