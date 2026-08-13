@@ -43,4 +43,8 @@ src/core        shared types and seeded randomness
 npm run check
 ```
 
+## Todo/Next steps
+- Different genres
+- Testing
+
 See [CONTRIBUTING.md](CONTRIBUTING.md) for the three-person workflow. MIT licensed.
